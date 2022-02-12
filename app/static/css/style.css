@@ -5,3 +5,15 @@ body {
 .blue {
     color: blue;
 }
+
+.red {
+    color: red;
+}
+
+.makebigger {
+    font-size: 120%;
+}
+
+.CenturyGothic {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
