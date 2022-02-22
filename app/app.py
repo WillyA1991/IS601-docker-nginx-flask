@@ -2,6 +2,7 @@
 from flask import Flask, render_template
 from controllers.index_controller import IndexController
 from werkzeug.debug import DebuggedApplication
+from controllers.about_controller import AboutController
 
 app = Flask(__name__)
 app.secret_key = b'_5#y2L"F4Q8z\n\xec]/'
